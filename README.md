@@ -1,6 +1,6 @@
 # Find-Minimum-Spanning-Tree
 
-The program find minimum spanning tree from an un-directed edge-weighted graph.
+The program find a minimum spanning tree from an undirected edge-weighted graph.
 I have implemented Kruskal and Prim algorithms to find the MST.
 The graph is implemented by Adjacancy List.
 
