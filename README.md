@@ -29,7 +29,7 @@ The program builds the graph using an input file, the sructure of the input file
 The program will not work if there's a negative weighted cycle in the graph.
 I have added some input files to test the program
 
-IMPORTANT: Command line arguments are needed to run this program!
+Please notice that command line arguments are needed to run this program!
   In Visual studio:
     Properties-> command line agruments -> "input_file_name" "output_file_name".
     
