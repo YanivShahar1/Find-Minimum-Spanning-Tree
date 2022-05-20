@@ -1,0 +1,20 @@
+﻿  DisjointSet.cpp
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\DisjointSet.h(7,2): warning C4091: 'typedef ': ignored on left of 'Vertex' when no variable is declared
+  file.cpp
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\file.cpp(70,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\file.cpp(70,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\file.cpp(70,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\file.cpp(74,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\file.cpp(79,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Kruskal.cpp
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\DisjointSet.h(7,2): warning C4091: 'typedef ': ignored on left of 'Vertex' when no variable is declared
+  List.cpp
+  main.cpp
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\DisjointSet.h(7,2): warning C4091: 'typedef ': ignored on left of 'Vertex' when no variable is declared
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\main.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MinHeap.cpp
+C:\Users\Yaniv\Desktop\Minimum Spanning Tree\Minimum Spanning Tree\MinHeap.cpp(69,11): warning C4101: 'temp': unreferenced local variable
+  prim.cpp
+  UnDirectedGraph.cpp
+  Generating Code...
+  Minimum Spanning Tree.vcxproj -> C:\Users\Yaniv\Desktop\Minimum Spanning Tree\x64\Debug\Minimum Spanning Tree.exe
